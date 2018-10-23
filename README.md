@@ -1,6 +1,6 @@
 # Simon_game
 Simon game for remembering colors.
 
--> About : 
+<b>-> About :</b> 
 
--> Technologies used : 
+<b>-> Technologies used : </b> 
